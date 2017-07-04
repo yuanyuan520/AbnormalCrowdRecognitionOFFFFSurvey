@@ -5,3 +5,9 @@ documentation [0-3]
 reader[mayan]
 
 ## new paper title 2
+
+## An effective and efficient algorithm for high-dimensional outlier detection
+[year]2015
+[]SCI factor:4.58 2017
+
+## Unsupervised Learning of Visual Representations using Videos
