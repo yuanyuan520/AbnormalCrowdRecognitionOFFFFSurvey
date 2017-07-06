@@ -17,3 +17,12 @@ reader[mayan]
 ## Unsupervised Learning of Visual Representations using Videos
 
 
+
+## An effective and efficient algorithm for high-dimensional outlier detection
+[reader: mayan] 
+[year]2015
+[]SCI factor:4.58 2017
+
+## Unsupervised Learning of Visual Representations using Videos
+
+
