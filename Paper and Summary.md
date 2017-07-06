@@ -17,3 +17,7 @@ reader[mayan]
 ## Unsupervised Learning of Visual Representations using Videos
 
 
+## Anomaly Detection and Localization in Crowded Scenes
+--reader:xiao
+[year]2013
+[IEEE]
